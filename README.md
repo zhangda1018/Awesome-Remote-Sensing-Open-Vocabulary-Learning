@@ -98,12 +98,11 @@
 |  [DDFAV: Remote Sensing Large Vision Language Models Dataset and Evaluation Benchmark](https://arxiv.org/abs/2501.16222) <br>H Li, X Zhang, H Qu. <br>| Remote Sensing | 2025 | [Github](https://github.com/HaodongLi2024/rspope) | - |
 |  [SPECIAL: zero-shot hyperspectral image classification with CLIP](https://arxiv.org/abs/2501.16222) <br>L Pang, J Yao, K Li, X Cao. <br>| Arxiv | 2025 | [Github](https://github.com/LiPang/SPECIAL) | - |
 |  [RS-CLIP: Zero shot remote sensing scene classification via contrastive vision-language supervision](https://www.sciencedirect.com/science/article/pii/S1569843223003217) <br>X Li, C Wen, Y Hu, N Zhou. <br>| Arxiv | 2024 | [Github](https://github.com/lx709/RS-CLIP) | - |
-|  [Remote Sensing Vision-Language Foundation Models without Annotations via Ground Remote Alignment](https://openreview.net/forum?id=w9tc699w3Z) <br>Utkarsh Mall, Cheng Perng Phoo, Meilin Kelsey Liu, Carl Vondrick, Bharath Hariharan, Kavita Bala. <br>| ICLR | 2024 | [Github](https://github.com/zqcrafts/SkySense-O) | - |
+|  [Remote Sensing Vision-Language Foundation Models without Annotations via Ground Remote Alignment](https://openreview.net/forum?id=w9tc699w3Z) <br>Utkarsh Mall, Cheng Perng Phoo, Meilin Kelsey Liu, Carl Vondrick, Bharath Hariharan, Kavita Bala. <br>| ICLR | 2024 | [Github](https://graft.cs.cornell.edu/) | - |
 
 
 
 
-https://graft.cs.cornell.edu/
 ## Foundation Model & Datasets
 | Name | Paper | Github | Year |
 |:-----|:-----:|:----:|:-----:|
