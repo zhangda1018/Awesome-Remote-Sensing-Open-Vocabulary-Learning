@@ -58,6 +58,9 @@
 ## Open Vocabulary Semantic Segmentation for Remote Sensing
 |  Title  |   Venue  |   Date   |   Code   |   Note   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+
+|  [Learning transferable land cover semantics for open vocabulary interactions with remote sensing images](https://www.sciencedirect.com/science/article/pii/S0924271625000061) <br>Valérie Zermatten, Javiera Castillo-Navarro, Diego Marcos, Devis Tuia.<br>| ISPRS | 2025 | [Github](https://github.com/eceo-epfl/RS-OVSS)  | - |
+|  [CitySeg: A 3D Open Vocabulary Semantic Segmentation Foundation Model in City-scale Scenarios](https://arxiv.org/abs/2508.09470) <br>Jialei Xu, Zizhuang Wei, Weikang You, Linyun Li, Weijian Sun. <br>| Arxiv | 2025 | - | - |
 |  [Soft-Guided Open-Vocabulary Semantic Segmentation of Remote Sensing Images](https://ieeexplore.ieee.org/document/11224558) <br>K An, Y Wang, L Chen. <br>| TGRS | 2025 | - | - |
 |  [Exploring Efficient Open-Vocabulary Segmentation in the Remote Sensing](https://arxiv.org/pdf/2509.12040) <br>B Li, H Dong, D Zhang, Z Zhao, J Gao, X Li. <br>| AAAI | 2026 | [Github](https://github.com/LiBingyu01/RSKT-Seg) | - |
 |  [Open-Vocabulary Semantic Segmentation for Remote Sensing Imagery via Dual-Stream Feature Extraction and Category-Adaptive Refinement](https://www.preprints.org/manuscript/202511.0513) <br>S Yuan, B He. <br>| Arxiv | 2025 | - | - |
@@ -70,7 +73,7 @@
 |  [Large multimodal model for open vocabulary semantic segmentation of remote sensing images](https://www.tandfonline.com/doi/full/10.1080/22797254.2024.2447344#abstract) <br>B Liu, X Chen, A Yu, F Feng, J Yue, X Yu. <br>| EJRS | 2025 | - | - |
 |  [Expanding Open-Vocabulary Understanding for UAV Aerial Imagery: A Vision–Language Framework to Semantic Segmentation](https://www.mdpi.com/2504-446X/9/2/155) <br>B Huang, J Li, W Luan, J Tan, C Li, L Huang. <br>| Drones | 2025 | - | - |
 |  [RSCLIP for Training-Free Open-Vocabulary Remote Sensing Image Semantic Segmentation](https://www.techrxiv.org/doi/full/10.36227/techrxiv.175790902.28615776) <br>S Wang, X Sun, J Han, XX Zhu. <br>| Techrxiv | 2025 | - | - |
-|  [AeriaICLIP: Lightweight Open-Vocabulary Segmentation for UAV-Based Aerial Images](https://ieeexplore.ieee.org/abstract/document/11179646) <br>P Jia, Y Gao, W Li, Q Gao, F Pan. <br>| CCC | 2024 | - | - |
+|  [AeriaICLIP: Lightweight Open-Vocabulary Segmentation for UAV-Based Aerial Images](https://ieeexplore.ieee.org/abstract/document/11179646) <br>P Jia, Y Gao, W Li, Q Gao, F Pan. <br>| CCC | 2025 | - | - |
 
 
 
@@ -106,6 +109,8 @@
 ## Other
 |  Title  |   Venue  |   Date   |   Code   |   Note   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+|  [Advancing Open-Set Object Detection in Remote Sensing Using Multimodal Large Language Model](https://openaccess.thecvf.com/content/WACV2025W/GeoCV/html/Saini_Advancing_Open-Set_Object_Detection_in_Remote_Sensing_Using_Multimodal_Large_WACVW_2025_paper.html) <br>Nandini Saini, Ashudeep Dubey, Debasis Das, Chiranjoy Chattopadhyay. <br>| WACV Workshop | 2025 | - | - |
+|  [GeoRSMLLM: A Multimodal Large Language Model for Vision-Language Tasks in Geoscience and Remote Sensing](https://arxiv.org/abs/2503.12490) <br>Zilun Zhang, Haozhan Shen, Tiancheng Zhao, Bin Chen, Zian Guan, Yuhao Wang, Xu Jia, Yuxiang Cai, Yongheng Shang, Jianwei Yin. <br>| Arxiv | 2025 | - | - |
 |  [InstructSAM: A Training-Free Framework for Instruction-Oriented Remote Sensing Object Recognition](https://www.arxiv.org/abs/2505.15818) <br>Y Zheng, W Wu, Q Li, X Wang, X Zhou, A Ren, J Shen, L Zhao, G Li, X Yang. <br>| Neurips | 2025 | [Github](https://voyagerxvoyagerx.github.io/InstructSAM/) | - |
 |  [SkySense-O: Towards Open-World Remote Sensing Interpretation with Vision-Centric Visual-Language Modeling](https://openaccess.thecvf.com/content/CVPR2025/html/Zhu_SkySense-O_Towards_Open-World_Remote_Sensing_Interpretation_with_Vision-Centric_Visual-Language_Modeling_CVPR_2025_paper.html) <br>Q Zhu, J Lao, D Ji, J Luo, K Wu, Y Zhang, L Ru, J Wang, J Chen, M Yang, D Liu, F Zhao. <br>| CVPR | 2025 | [Github](https://github.com/zqcrafts/SkySense-O) | - |
 |  [DDFAV: Remote Sensing Large Vision Language Models Dataset and Evaluation Benchmark](https://arxiv.org/abs/2501.16222) <br>H Li, X Zhang, H Qu. <br>| Remote Sensing | 2025 | [Github](https://github.com/HaodongLi2024/rspope) | - |
