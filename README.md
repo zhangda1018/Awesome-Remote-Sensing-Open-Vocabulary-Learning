@@ -42,6 +42,7 @@
 ## Open Vocabulary Object Detection for Remote Sensing
 |  Title  |   Venue  |   Date   |   Code   |   Note   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+|  [LLaMA-Unidetector: An LLaMA-Based Universal Framework for Open-Vocabulary Object Detection in Remote Sensing Imagery](https://ieeexplore.ieee.org/abstract/document/10976651) <br>J Xie, G Wang, T Zhang, Y Sun, H Chen, Y. Zhang. <br>| TGRS | 2025 | [Github](https://github.com/ChloeeGrace/LLaMA-Unidetector) | - |
 |  [RT-OVAD: Real-Time Open-Vocabulary Aerial Object Detection via Image-Text Collaboration](https://arxiv.org/abs/2408.12246v3) <br>G Wei, X Yuan, Y Liu, Z Shang, X Xue, P Wang, K Yao, C Zhao, H Zhang, R Xiao. <br>| Arxiv | 2025 | [Github](https://github.com/GT-Wei/RT-OVAD) | - |
 |  [OpenRSD: Towards Open-prompts for Object Detection in Remote Sensing Images](https://openaccess.thecvf.com/content/ICCV2025/html/Huang_OpenRSD_Towards_Open-prompts_for_Object_Detection_in_Remote_Sensing_Images_ICCV_2025_paper.html) <br>Z Huang, Y Feng, S Yang, Z Liu, Q Liu, Y Wang. <br>| ICCV | 2025 | [Github](https://github.com/floatingstarZ/OpenRSD) | - |
 |  [Cross-View Open-Vocabulary Object Detection in Aerial Imagery](https://arxiv.org/abs/2510.03858) <br>J Kini, R Gupta, M Shah. <br>| Arxiv | 2025 | - | - |
@@ -66,6 +67,9 @@
 |  [SegEarth-OV: Towards Training-Free Open-Vocabulary Segmentation for Remote Sensing Images](https://www.arxiv.org/abs/2410.01768) <br>K Li, R Liu, X Cao, X Bai, F Zhou, D Meng, Z Wang. <br>| CVPR | 2025 | [Github](https://github.com/likyoo/SegEarth-OV) | - |
 |  [Open-Vocabulary High-Resolution Remote Sensing Image Semantic Segmentation](https://ieeexplore.ieee.org/abstract/document/10962188) <br>Q Cao, Y Chen, C Ma, X Yang. <br>| TGRS | 2025 | [Github](https://github.com/caoql98/OVRS) | - |
 |  [FreeMix: Open-Vocabulary Domain Generalization of Remote-Sensing Images for Semantic Segmentation](https://www.mdpi.com/2072-4292/17/8/1357) <br>J Wu, J Shi, Z Zhao, Z Liu, R Zhi. <br>| TGRS | 2025 | [Github](https://github.com/GoldfishFive/FreeMix) | - |
+|  [Large multimodal model for open vocabulary semantic segmentation of remote sensing images](https://www.tandfonline.com/doi/full/10.1080/22797254.2024.2447344#abstract) <br>B Liu, X Chen, A Yu, F Feng, J Yue, X Yu. <br>| EJRS | 2025 | - | - |
+
+
 
 ## Open Vocabulary Instance Segmentation for Remote Sensing
 |  Title  |   Venue  |   Date   |   Code   |   Note   |
