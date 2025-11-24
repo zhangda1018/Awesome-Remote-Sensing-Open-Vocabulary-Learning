@@ -108,6 +108,8 @@
 ## Other
 |  Title  |   Venue  |   Date   |   Code   |   Note   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+|  [FarSLIP: Discovering Effective CLIP Adaptation for Fine-Grained Remote Sensing Understanding](https://arxiv.org/pdf/2511.14901) <br>Zhenshi Li, Weikang Yu, Dilxat Muhtar, Xueliang Zhang, Pengfeng Xiao, Pedram Ghamisi, Xiaoxiang Zhu. <br>| Arxiv | 2025 | [Github](https://github.com/NJU-LHRS/FarSLIP) | - |
+|  [Grounded Vision-Language Navigation for UAVs with Open-Vocabulary Goal Understanding](https://arxiv.org/abs/2506.10756) <br>Yuhang Zhang, Haosheng Yu, Jiaping Xiao, Mir Feroskhan. <br>| Arxiv | 2025 | [Github](https://zzzzzyh111.github.io/VLFly/) | - |
 |  [Enhanced Grounding DINO: Efficient Cross-Modality Block for Open-Set Object Detection in Remote Sensing](https://ieeexplore.ieee.org/abstract/document/11021309) <br>Z Hu, K Gao, J Wang, Z Yang, Z Zhang, H Chen. <br>| JSTAR | 2025 | - | - |
 |  [Advancing Open-Set Object Detection in Remote Sensing Using Multimodal Large Language Model](https://openaccess.thecvf.com/content/WACV2025W/GeoCV/html/Saini_Advancing_Open-Set_Object_Detection_in_Remote_Sensing_Using_Multimodal_Large_WACVW_2025_paper.html) <br>Nandini Saini, Ashudeep Dubey, Debasis Das, Chiranjoy Chattopadhyay. <br>| WACV Workshop | 2025 | - | - |
 |  [GeoRSMLLM: A Multimodal Large Language Model for Vision-Language Tasks in Geoscience and Remote Sensing](https://arxiv.org/abs/2503.12490) <br>Zilun Zhang, Haozhan Shen, Tiancheng Zhao, Bin Chen, Zian Guan, Yuhao Wang, Xu Jia, Yuxiang Cai, Yongheng Shang, Jianwei Yin. <br>| Arxiv | 2025 | - | - |
@@ -124,7 +126,6 @@
 ## Foundation Model & Datasets
 | Name | Paper | Github | Year |
 |:-----|:-----:|:----:|:-----:|
-
 | **AetherVision-Bench** | [AetherVision-Bench: An Open-Vocabulary RGB-Infrared Benchmark for Multi-Angle Segmentation across Aerial and Ground Perspectives](https://arxiv.org/abs/2506.03709) | - | 2025|
 | **Falcon** | [Falcon: A Remote Sensing Vision-Language Foundation Model](https://arxiv.org/abs/2503.11070) | [Link](https://github.com/TianHuiLab/Falcon) | 2025|
 | **RemoteSAM** | [Remotesam: Towards segment anything for earth observation](https://www.arxiv.org/abs/2505.18022) | [Link](https://github.com/1e12Leon/RemoteSAM) | 2025|
