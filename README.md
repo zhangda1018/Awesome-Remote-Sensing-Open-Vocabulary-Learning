@@ -57,6 +57,7 @@
 ## Open Vocabulary Semantic Segmentation for Remote Sensing
 |  Title  |   Venue  |   Date   |   Code   |   Note   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+|  [Soft-Guided Open-Vocabulary Semantic Segmentation of Remote Sensing Images](https://ieeexplore.ieee.org/document/11224558) <br>K An, Y Wang, L Chen. <br>| TGRS | 2025 | - | - |
 |  [Exploring Efficient Open-Vocabulary Segmentation in the Remote Sensing](https://arxiv.org/pdf/2509.12040) <br>B Li, H Dong, D Zhang, Z Zhao, J Gao, X Li. <br>| AAAI | 2026 | [Github](https://github.com/LiBingyu01/RSKT-Seg) | - |
 |  [Open-Vocabulary Semantic Segmentation for Remote Sensing Imagery via Dual-Stream Feature Extraction and Category-Adaptive Refinement](https://www.preprints.org/manuscript/202511.0513) <br>S Yuan, B He. <br>| Arxiv | 2025 | - | - |
 |  [AerOSeg: Harnessing SAM for Open-Vocabulary Segmentation in Remote Sensing Images](https://openaccess.thecvf.com/content/CVPR2025W/EarthVision/html/Dutta_AerOSeg_Harnessing_SAM_for_Open-Vocabulary_Segmentation_in_Remote_Sensing_Images_CVPRW_2025_paper.html) <br>Saikat Dutta, Akhil Vasim, Siddhant Gole, Hamid Rezatofighi, Biplab Banerjee. <br>| CVPR workshop | 2025 | - | - |
