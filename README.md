@@ -68,6 +68,12 @@
 |  [Open-Vocabulary High-Resolution Remote Sensing Image Semantic Segmentation](https://ieeexplore.ieee.org/abstract/document/10962188) <br>Q Cao, Y Chen, C Ma, X Yang. <br>| TGRS | 2025 | [Github](https://github.com/caoql98/OVRS) | - |
 |  [FreeMix: Open-Vocabulary Domain Generalization of Remote-Sensing Images for Semantic Segmentation](https://www.mdpi.com/2072-4292/17/8/1357) <br>J Wu, J Shi, Z Zhao, Z Liu, R Zhi. <br>| TGRS | 2025 | [Github](https://github.com/GoldfishFive/FreeMix) | - |
 |  [Large multimodal model for open vocabulary semantic segmentation of remote sensing images](https://www.tandfonline.com/doi/full/10.1080/22797254.2024.2447344#abstract) <br>B Liu, X Chen, A Yu, F Feng, J Yue, X Yu. <br>| EJRS | 2025 | - | - |
+|  [Expanding Open-Vocabulary Understanding for UAV Aerial Imagery: A Vision–Language Framework to Semantic Segmentation](https://www.mdpi.com/2504-446X/9/2/155) <br>B Huang, J Li, W Luan, J Tan, C Li, L Huang. <br>| Drones | 2025 | - | - |
+|  [RSCLIP for Training-Free Open-Vocabulary Remote Sensing Image Semantic Segmentation](https://www.techrxiv.org/doi/full/10.36227/techrxiv.175790902.28615776) <br>S Wang, X Sun, J Han, XX Zhu. <br>| Techrxiv | 2025 | - | - |
+|  [AeriaICLIP: Lightweight Open-Vocabulary Segmentation for UAV-Based Aerial Images](https://ieeexplore.ieee.org/abstract/document/11179646) <br>P Jia, Y Gao, W Li, Q Gao, F Pan. <br>| CCC | 2024 | - | - |
+
+
+
 
 
 
@@ -84,8 +90,10 @@
 ## Open Vocabulary Change Detection for Remote Sensing
 |  Title  |   Venue  |   Date   |   Code   |   Note   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-|  [DynamicEarth: How Far are We from Open-Vocabulary Change Detection?](https://arxiv.org/abs/2501.12931) <br>K Li, X Cao, Y Deng, C Pang, Z Xin, D Meng, Z Wang. <br>| Arxiv | 2025 | [Github](https://github.com/likyoo/DynamicEarth) | - |
+|  [DynamicEarth: How Far are We from Open-Vocabulary Change Detection?](https://arxiv.org/abs/2501.12931) <br>K Li, X Cao, Y Deng, C Pang, Z Xin, D Meng, Z Wang. <br>| Arxiv | 2025 | [Github](https://github.com/likyoo/DynamicEarth) | Accepted by AAAI 2026 |
 |  [Semantic-cd: Remote sensing image semantic change detection towards open-vocabulary setting](https://arxiv.org/abs/2501.06808) <br>Y Zhu, L Li, K Chen, C Liu, F Zhou, Z Shi. <br>| Arxiv | 2025 | - | - |
+|  [Open-vocabulary generative vision-language models for creating a large-scale remote sensing change detection dataset](https://www.sciencedirect.com/science/article/abs/pii/S0924271625001595) <br>Y Zan, S Ji, S Chao, M Luo. <br>| ISPRS | 2025 | [Github](https://gpcv.whu.edu.cn/data/) | - |
+
 
 ## Open Vocabulary Visual Grounding for Remote Sensing
 |  Title  |   Venue  |   Date   |   Code   |   Note   |
