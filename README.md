@@ -2,6 +2,7 @@
 # Awesome-Remote-Sensing-Open-Vocabulary-Learning
 
 
+
 🔥🔥🔥 **Towards Open-Vocabulary Learning in Remote Sensing: A Survey**  
 <!-- **[Project Page][This Page](https://github.com/ZhanYang-nwpu/RS-MLLMs)** |  -->
 
