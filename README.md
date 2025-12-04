@@ -43,6 +43,7 @@
 ## Open Vocabulary Object Detection for Remote Sensing
 |  Title  |   Venue  |   Date   |   Code   |   Note   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+|  [Open-vocabulary object detection for high-resolution remote sensing images](https://ieeexplore.ieee.org/abstract/document/10976651) <br>HuaDong Li. <br>| CVIU | 2025 | - | - |
 |  [LLaMA-Unidetector: An LLaMA-Based Universal Framework for Open-Vocabulary Object Detection in Remote Sensing Imagery](https://ieeexplore.ieee.org/abstract/document/10976651) <br>J Xie, G Wang, T Zhang, Y Sun, H Chen, Y. Zhang. <br>| TGRS | 2025 | [Github](https://github.com/ChloeeGrace/LLaMA-Unidetector) | - |
 |  [RT-OVAD: Real-Time Open-Vocabulary Aerial Object Detection via Image-Text Collaboration](https://arxiv.org/abs/2408.12246v3) <br>G Wei, X Yuan, Y Liu, Z Shang, X Xue, P Wang, K Yao, C Zhao, H Zhang, R Xiao. <br>| Arxiv | 2025 | [Github](https://github.com/GT-Wei/RT-OVAD) | - |
 |  [OpenRSD: Towards Open-prompts for Object Detection in Remote Sensing Images](https://openaccess.thecvf.com/content/ICCV2025/html/Huang_OpenRSD_Towards_Open-prompts_for_Object_Detection_in_Remote_Sensing_Images_ICCV_2025_paper.html) <br>Z Huang, Y Feng, S Yang, Z Liu, Q Liu, Y Wang. <br>| ICCV | 2025 | [Github](https://github.com/floatingstarZ/OpenRSD) | - |
@@ -59,6 +60,7 @@
 ## Open Vocabulary Semantic Segmentation for Remote Sensing
 |  Title  |   Venue  |   Date   |   Code   |   Note   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+|  [Reducing semantic ambiguity in open-vocabulary remote sensing image segmentation via knowledge graph-enhanced class representations](https://www.sciencedirect.com/science/article/abs/pii/S0924271625004666) <br>Wubiao Huang, Huchen Li, Shuai Zhang, Fei Deng.<br>| ISPRS | 2026 | [Github](https://github.com/HuangWBill/KG-OVRSeg/tree/master)  | - |
 |  [Learning transferable land cover semantics for open vocabulary interactions with remote sensing images](https://www.sciencedirect.com/science/article/pii/S0924271625000061) <br>Valérie Zermatten, Javiera Castillo-Navarro, Diego Marcos, Devis Tuia.<br>| ISPRS | 2025 | [Github](https://github.com/eceo-epfl/RS-OVSS)  | - |
 |  [CitySeg: A 3D Open Vocabulary Semantic Segmentation Foundation Model in City-scale Scenarios](https://arxiv.org/abs/2508.09470) <br>Jialei Xu, Zizhuang Wei, Weikang You, Linyun Li, Weijian Sun. <br>| Arxiv | 2025 | - | - |
 |  [Soft-Guided Open-Vocabulary Semantic Segmentation of Remote Sensing Images](https://ieeexplore.ieee.org/document/11224558) <br>K An, Y Wang, L Chen. <br>| TGRS | 2025 | - | - |
