@@ -60,6 +60,8 @@
 ## Open Vocabulary Semantic Segmentation for Remote Sensing
 |  Title  |   Venue  |   Date   |   Code   |   Note   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+|  [SegEarth-OV3: Exploring SAM 3 for Open-Vocabulary Semantic Segmentation in Remote Sensing Images](https://arxiv.org/abs/2512.08730) <br>Kaiyu Li, Shengqi Zhang, Yupeng Deng, Zhi Wang, Deyu Meng, Xiangyong Cao. <br>| Arxiv | 2025 | [Github](https://github.com/earth-insights/SegEarth-OV-3) | - |
+|  [DGL-RSIS: Decoupling Global Spatial Context and Local Class Semantics for Training-Free Remote Sensing Image Segmentation](https://arxiv.org/abs/2509.00598) <br>Boyi Li, Ce Zhang, Richard M. Timmerman, Wenxuan Bao. <br>| Arxiv | 2025 | - | - |
 |  [Reducing semantic ambiguity in open-vocabulary remote sensing image segmentation via knowledge graph-enhanced class representations](https://www.sciencedirect.com/science/article/abs/pii/S0924271625004666) <br>Wubiao Huang, Huchen Li, Shuai Zhang, Fei Deng.<br>| ISPRS | 2026 | [Github](https://github.com/HuangWBill/KG-OVRSeg/tree/master)  | - |
 |  [Learning transferable land cover semantics for open vocabulary interactions with remote sensing images](https://www.sciencedirect.com/science/article/pii/S0924271625000061) <br>Valérie Zermatten, Javiera Castillo-Navarro, Diego Marcos, Devis Tuia.<br>| ISPRS | 2025 | [Github](https://github.com/eceo-epfl/RS-OVSS)  | - |
 |  [CitySeg: A 3D Open Vocabulary Semantic Segmentation Foundation Model in City-scale Scenarios](https://arxiv.org/abs/2508.09470) <br>Jialei Xu, Zizhuang Wei, Weikang You, Linyun Li, Weijian Sun. <br>| Arxiv | 2025 | - | - |
@@ -104,6 +106,7 @@
 |  Title  |   Venue  |   Date   |   Code   |   Note   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 |  [RSVG-ZeroOV: Exploring a Training-Free Framework for Zero-Shot Open-Vocabulary Visual Grounding in Remote Sensing Images](https://www.arxiv.org/abs/2509.18711v2) <br>K Li, D Wang, T Wang, F Dong, Y Zhang, L Zhang, X Wang, S Li, Q Wang. <br>| AAAI | 2026 | - | - |
+|  [On-the-Fly OVD Adaptation with FLAME: Few-shot Localization via Active Marginal-Samples Exploration](https://arxiv.org/abs/2510.17670) <br>Yehonathan Refael, Amit Aides, Aviad Barzilai, George Leifman, Genady Beryozkin, Vered Silverman, Bolous Jaber, Tomer Shekel. <br>| Arxiv | 2025 | - | - |
 
 
 
