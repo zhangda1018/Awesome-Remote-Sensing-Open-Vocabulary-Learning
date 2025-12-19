@@ -98,6 +98,7 @@
 |  Title  |   Venue  |   Date   |   Code   |   Note   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 |  [DynamicEarth: How Far are We from Open-Vocabulary Change Detection?](https://arxiv.org/abs/2501.12931) <br>K Li, X Cao, Y Deng, C Pang, Z Xin, D Meng, Z Wang. <br>| Arxiv | 2025 | [Github](https://github.com/likyoo/DynamicEarth) | Accepted by AAAI 2026 |
+|  [UniVCD: A New Method for Unsupervised Change Detection in the Open-Vocabulary Era](https://arxiv.org/pdf/2512.13089) <br>Ziqiang Zhu, Bowei Yang. <br>| Arxiv | 2025 | [Github](https://github.com/Die-Xie/UniVCD) | - |
 |  [Semantic-cd: Remote sensing image semantic change detection towards open-vocabulary setting](https://arxiv.org/abs/2501.06808) <br>Y Zhu, L Li, K Chen, C Liu, F Zhou, Z Shi. <br>| Arxiv | 2025 | - | - |
 |  [Open-vocabulary generative vision-language models for creating a large-scale remote sensing change detection dataset](https://www.sciencedirect.com/science/article/abs/pii/S0924271625001595) <br>Y Zan, S Ji, S Chao, M Luo. <br>| ISPRS | 2025 | [Github](https://gpcv.whu.edu.cn/data/) | - |
 
