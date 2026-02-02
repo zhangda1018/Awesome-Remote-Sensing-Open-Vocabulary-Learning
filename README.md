@@ -43,6 +43,8 @@
 ## Open Vocabulary Object Detection for Remote Sensing
 |  Title  |   Venue  |   Date   |   Code   |   Note   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+|  [Unveiling the Unknown: A SAM Guided Open World Object Detection Method for Remote Sensing](https://ieeexplore.ieee.org/abstract/document/11352996) <br>Mingtao Hu, Wenxin Yin, Wenhui Diao, Xin Gao, Xian Sun<br>| Arxiv | 2026 | - | - |
+|  [A Training-Free Guess What Vision Language Model from Snippets to Open-Vocabulary Object Detection](https://arxiv.org/abs/2601.11910) <br>Guiying Zhu, Bowen Yang, Yin Zhuang, Tong Zhang, Guanqun Wang, Zhihao Che, He Chen, Lianlin Li <br>| Arxiv | 2026 | - | - |
 |  [Open-vocabulary object detection for high-resolution remote sensing images](https://ieeexplore.ieee.org/abstract/document/10976651) <br>HuaDong Li. <br>| CVIU | 2025 | - | - |
 |  [LLaMA-Unidetector: An LLaMA-Based Universal Framework for Open-Vocabulary Object Detection in Remote Sensing Imagery](https://ieeexplore.ieee.org/abstract/document/10976651) <br>J Xie, G Wang, T Zhang, Y Sun, H Chen, Y. Zhang. <br>| TGRS | 2025 | [Github](https://github.com/ChloeeGrace/LLaMA-Unidetector) | - |
 |  [RT-OVAD: Real-Time Open-Vocabulary Aerial Object Detection via Image-Text Collaboration](https://arxiv.org/abs/2408.12246v3) <br>G Wei, X Yuan, Y Liu, Z Shang, X Xue, P Wang, K Yao, C Zhao, H Zhang, R Xiao. <br>| Arxiv | 2025 | [Github](https://github.com/GT-Wei/RT-OVAD) | - |
@@ -60,8 +62,12 @@
 ## Open Vocabulary Semantic Segmentation for Remote Sensing
 |  Title  |   Venue  |   Date   |   Code   |   Note   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+|  [MovSeg: Efficient Adaptation of Vision-Language Models for Multispectral Open-Vocabulary Segmentation](https://ieeexplore.ieee.org/abstract/document/11365526) <br>Yingrui Ji; Chenhao Wang; Jiansheng Chen; Jingbo Chen; Anzhi Yue; Yu Meng <br>| ISPRS | 2026 | - | - |
+|  [AerOSeg++: Scale-Aware and Texture-Guided Open-Vocabulary Segmentation with SAM Features for Remote Sensing Images](https://dl.acm.org/doi/abs/10.1145/3787522) <br>Saikat Dutta, Akhil Vasim, Hamid Rezatofighi, Biplab Banerjee. <br>| RS | 2026 | - | - |
+|  [HG-RSOVSSeg: Hierarchical Guidance Open-Vocabulary Semantic Segmentation Framework of High-Resolution Remote Sensing Images](https://www.mdpi.com/2072-4292/18/2/213) <br>Wubiao Huang, Fei Deng, Huchen Li, Jing Yang. <br>| RS | 2026 | - | - |
+|  [Towards Open-Vocabulary Semantic Segmentation for Remote Sensing Images](https://www.sciencedirect.com/science/article/abs/pii/S003132032600083X) <br>Da Zhang, Mingmin Zeng, Xuelong Li. <br>| PR | 2026 | - | - |
 |  [SegEarth-OV3: Exploring SAM 3 for Open-Vocabulary Semantic Segmentation in Remote Sensing Images](https://arxiv.org/abs/2512.08730) <br>Kaiyu Li, Shengqi Zhang, Yupeng Deng, Zhi Wang, Deyu Meng, Xiangyong Cao. <br>| Arxiv | 2025 | [Github](https://github.com/earth-insights/SegEarth-OV-3) | - |
-|  [DGL-RSIS: Decoupling Global Spatial Context and Local Class Semantics for Training-Free Remote Sensing Image Segmentation](https://arxiv.org/abs/2509.00598) <br>Boyi Li, Ce Zhang, Richard M. Timmerman, Wenxuan Bao. <br>| Arxiv | 2025 | - | - |
+|  [DGL-RSIS: Decoupling Global Spatial Context and Local Class Semantics for Training-Free Remote Sensing Image Segmentation](https://arxiv.org/abs/2509.00598) <br>Boyi Li, Ce Zhang, Richard M. Timmerman, Wenxuan Bao. <br>| Arxiv | 2025 | - | Accepted to JAG 2026 |
 |  [Reducing semantic ambiguity in open-vocabulary remote sensing image segmentation via knowledge graph-enhanced class representations](https://www.sciencedirect.com/science/article/abs/pii/S0924271625004666) <br>Wubiao Huang, Huchen Li, Shuai Zhang, Fei Deng.<br>| ISPRS | 2026 | [Github](https://github.com/HuangWBill/KG-OVRSeg/tree/master)  | - |
 |  [Learning transferable land cover semantics for open vocabulary interactions with remote sensing images](https://www.sciencedirect.com/science/article/pii/S0924271625000061) <br>Valérie Zermatten, Javiera Castillo-Navarro, Diego Marcos, Devis Tuia.<br>| ISPRS | 2025 | [Github](https://github.com/eceo-epfl/RS-OVSS)  | - |
 |  [CitySeg: A 3D Open Vocabulary Semantic Segmentation Foundation Model in City-scale Scenarios](https://arxiv.org/abs/2508.09470) <br>Jialei Xu, Zizhuang Wei, Weikang You, Linyun Li, Weijian Sun. <br>| Arxiv | 2025 | - | - |
@@ -101,6 +107,7 @@
 |  [UniVCD: A New Method for Unsupervised Change Detection in the Open-Vocabulary Era](https://arxiv.org/pdf/2512.13089) <br>Ziqiang Zhu, Bowei Yang. <br>| Arxiv | 2025 | [Github](https://github.com/Die-Xie/UniVCD) | - |
 |  [Semantic-cd: Remote sensing image semantic change detection towards open-vocabulary setting](https://arxiv.org/abs/2501.06808) <br>Y Zhu, L Li, K Chen, C Liu, F Zhou, Z Shi. <br>| Arxiv | 2025 | - | - |
 |  [Open-vocabulary generative vision-language models for creating a large-scale remote sensing change detection dataset](https://www.sciencedirect.com/science/article/abs/pii/S0924271625001595) <br>Y Zan, S Ji, S Chao, M Luo. <br>| ISPRS | 2025 | [Github](https://gpcv.whu.edu.cn/data/) | - |
+|  [OmniOVCD: Streamlining Open-Vocabulary Change Detection with SAM 3](https://arxiv.org/abs/2601.13895) <br>Xu Zhang, Danyang Li, Yingjie Xia, Xiaohang Dong, Hualong Yu, Jianye Wang, Qicheng Li. <br>| Arxiv | 2026 | - | - |
 
 
 ## Open Vocabulary Visual Grounding for Remote Sensing
